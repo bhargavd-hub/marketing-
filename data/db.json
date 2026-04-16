@@ -1,0 +1,321 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "categoryId": 1,
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "categoryId": 2,
+      "price": 11.74
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "categoryId": 3,
+      "price": 13.49
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "categoryId": 4,
+      "price": 15.24
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "categoryId": 5,
+      "price": 16.99
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "categoryId": 6,
+      "price": 18.74
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "categoryId": 1,
+      "price": 20.49
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "categoryId": 2,
+      "price": 22.24
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "categoryId": 3,
+      "price": 23.99
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "categoryId": 4,
+      "price": 25.74
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "categoryId": 5,
+      "price": 27.49
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "categoryId": 6,
+      "price": 29.24
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "categoryId": 1,
+      "price": 30.99
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "categoryId": 2,
+      "price": 32.74
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "categoryId": 3,
+      "price": 34.49
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "categoryId": 4,
+      "price": 36.24
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "categoryId": 5,
+      "price": 37.99
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "categoryId": 6,
+      "price": 39.74
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "categoryId": 1,
+      "price": 41.49
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "categoryId": 2,
+      "price": 43.24
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "categoryId": 3,
+      "price": 44.99
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "categoryId": 4,
+      "price": 46.74
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "categoryId": 5,
+      "price": 48.49
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "categoryId": 6,
+      "price": 50.24
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "categoryId": 1,
+      "price": 51.99
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "categoryId": 2,
+      "price": 53.74
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "categoryId": 3,
+      "price": 55.49
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "categoryId": 4,
+      "price": 57.24
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "categoryId": 5,
+      "price": 58.99
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "categoryId": 6,
+      "price": 60.74
+    },
+    {
+      "id": 31,
+      "name": "Product 31",
+      "categoryId": 1,
+      "price": 62.49
+    },
+    {
+      "id": 32,
+      "name": "Product 32",
+      "categoryId": 2,
+      "price": 64.24
+    },
+    {
+      "id": 33,
+      "name": "Product 33",
+      "categoryId": 3,
+      "price": 65.99
+    },
+    {
+      "id": 34,
+      "name": "Product 34",
+      "categoryId": 4,
+      "price": 67.74
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Skincare"
+    },
+    {
+      "id": 2,
+      "name": "Haircare"
+    },
+    {
+      "id": 3,
+      "name": "Makeup"
+    },
+    {
+      "id": 4,
+      "name": "Supplements"
+    },
+    {
+      "id": 5,
+      "name": "Accessories"
+    },
+    {
+      "id": 6,
+      "name": "Bundles"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 1,
+      "total": 9.99,
+      "createdAt": "2026-04-16T12:46:04.759Z"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "quantity": 2,
+      "total": 23.48,
+      "createdAt": "2026-04-15T12:46:04.759Z"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "quantity": 3,
+      "total": 40.47,
+      "createdAt": "2026-04-14T12:46:04.759Z"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "quantity": 1,
+      "total": 15.24,
+      "createdAt": "2026-04-13T12:46:04.759Z"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "quantity": 2,
+      "total": 33.98,
+      "createdAt": "2026-04-12T12:46:04.759Z"
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "quantity": 3,
+      "total": 56.22,
+      "createdAt": "2026-04-11T12:46:04.759Z"
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "quantity": 1,
+      "total": 20.49,
+      "createdAt": "2026-04-10T12:46:04.759Z"
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "quantity": 2,
+      "total": 44.48,
+      "createdAt": "2026-04-09T12:46:04.759Z"
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "quantity": 3,
+      "total": 71.97,
+      "createdAt": "2026-04-08T12:46:04.759Z"
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "quantity": 1,
+      "total": 25.74,
+      "createdAt": "2026-04-07T12:46:04.759Z"
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "quantity": 2,
+      "total": 54.98,
+      "createdAt": "2026-04-06T12:46:04.759Z"
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "quantity": 3,
+      "total": 87.72,
+      "createdAt": "2026-04-05T12:46:04.759Z"
+    }
+  ],
+  "seededAt": "2026-04-16T12:46:04.759Z"
+}
